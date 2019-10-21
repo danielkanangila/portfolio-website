@@ -1509,6 +1509,7 @@ nav {
 }
 
 .open-nav {
+    font-size: 20px;
     cursor: pointer;
 }
 
